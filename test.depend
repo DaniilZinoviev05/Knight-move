@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723905931 source:/home/daniil/c++ projects/code_blocks/test/main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
